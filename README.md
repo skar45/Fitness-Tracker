@@ -4,20 +4,21 @@
 
 
 ### Description
-This app keeps track of your workouts. You can add a new workout and check your progress in the app dashboard.
+This app keeps track of your workouts. You can add a new workout and check your progress in the app dashboard whenn you complete your exercise.
 
 ### Table of Content  
 [Installation](#Installation)  
 [Usage](#Usage)  
 [Lisence](#License)  
-[Contribution Guideline](#custom-cont)  
-[Test Instructions](#custom-test)  
-[Questions](#custom-q)  
+[Contribution Guideline](#Contribution) 
 
 ## Installation 
 run node sever.js in the CLI. (Requires NodeJS)
 
 ## Usage
+![1](https://user-images.githubusercontent.com/69816889/100093034-f6d84100-2e24-11eb-9b4a-401cf7e86c92.PNG)
+![2](https://user-images.githubusercontent.com/69816889/100093039-f770d780-2e24-11eb-96b8-de2be83b97a0.PNG)
+![3](https://user-images.githubusercontent.com/69816889/100093043-f8a20480-2e24-11eb-88dd-847e209d741d.PNG)
 
 
 ## License
@@ -43,11 +44,8 @@ MIT License
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
 
-## Contribution Guidelines
+## Contribution
 Sajal Karkee
 
-## Test Instructions
-none
+https://github.com/skar45/
 
-## Questions
-none
